@@ -1,0 +1,3 @@
+# Ignore SFML DLL files
+*.dll
+.vscode
